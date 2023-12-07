@@ -1,4 +1,5 @@
-# node-todo-cicd
+# Jenkins Declerative pipeline for node-todo-cicd application
+
 
 Run these commands:
 
