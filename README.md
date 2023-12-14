@@ -21,5 +21,5 @@ I'm Excited to share share a step-by-step guide on configuring nodes, deploying 
 
 https://hashnode.com/edit/clq475or8000608lcdjsafsq6
 
-Thank you,
-Shiv
+#### Thank you,
+#### Shiv
