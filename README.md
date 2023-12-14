@@ -3,8 +3,8 @@
 
 I'm Excited to share share a step-by-step guide on configuring nodes, deploying web apps, and pushing images to Docker Hub using Jenkins pipelines! 🌐💻
 
-🌐💻Step-by-Step Guide 🌐💻
-✅Step 1: Set Up Jenkins-Master & Jenkins-Agent
+# 🌐💻Step-by-Step Guide 🌐💻
+## ✅Step 1: Set Up Jenkins-Master & Jenkins-Agent
 ✅Step 2: Install Jenkins on Jenkins-Master
 ✅Step 3: Adjust Inbound Rules
 ✅Step 4: Access Jenkins Dashboard
