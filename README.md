@@ -5,9 +5,9 @@ I'm Excited to share share a step-by-step guide on configuring nodes, deploying 
 
 # 🌐💻Step-by-Step Guide 🌐💻
 ## ✅Step 1: Set Up Jenkins-Master & Jenkins-Agent
-✅Step 2: Install Jenkins on Jenkins-Master
-✅Step 3: Adjust Inbound Rules
-✅Step 4: Access Jenkins Dashboard
+## ✅Step 2: Install Jenkins on Jenkins-Master
+## ✅Step 3: Adjust Inbound Rules
+## ✅Step 4: Access Jenkins Dashboard
 ✅Step 5: Create First Admin User and Install Plugins
 ✅Step 6: Set Up Jenkins Node
 ✅Step 7: Install Docker-Compose
